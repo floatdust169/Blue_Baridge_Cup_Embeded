@@ -1,1 +1,2 @@
+# Blue_Baridge_Cup_Embeded
 master分支存放了本人备赛16届蓝桥杯嵌入式赛道的自制资料
